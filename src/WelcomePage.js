@@ -1,5 +1,6 @@
 import React from "react";
 import "./WelcomePage.css";
+import ghost from "./images/ghost.png";
 
 
 const WelcomePage = () => {
@@ -17,6 +18,9 @@ const WelcomePage = () => {
             </div>
             <div className="PortfolioButton">
                 <a href="https://blossomarmstrong.com/" className="PortfolioLink" target="_blank" rel="noreferrer">PORTFOLIO</a>
+            </div>
+            <div className="ghostImage">
+                <img src={ghost} alt="ghost" className="d-flex"/>
             </div>
         </div>
     )
