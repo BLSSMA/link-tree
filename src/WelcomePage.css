@@ -42,7 +42,7 @@ background-color: rgba(255, 255, 255, 0.313);
     letter-spacing: .15em;
             /* Adjust as needed */
     animation:
-        typing 8.5s steps(40, end),
+        typing 6.5s steps(40, end),
         blink-caret .75s step-end 4 ;
         }
         /* The typing effect */
