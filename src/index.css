@@ -5,6 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+    animation: pulse 10s infinite;
+}
+@keyframes pulse {
+
+  0%,
+  100% {
+    background-color: #f56a3f;
+  }
+
+  50% {
+    background-color: #9e42b0;
+  }
 }
 
 code {
