@@ -3,13 +3,18 @@
     margin:0 auto;
     padding:0;
 }
-.WelcomePage .StoreButton, .WelcomePage .EtsyButton, .WelcomePage .PortfolioButton{
+.WelcomePage .StoreButton, .WelcomePage .EtsyButton, .WelcomePage .InstagramButton{
 background-color:white;
 max-width:300px;
 padding:20px 0;
 margin:60px auto;
 border-radius:40px;
 border: 3px solid black;
+}
+.WelcomePage .StoreButton:hover,
+.WelcomePage .EtsyButton:hover,
+.WelcomePage .InstagramButton:hover {
+background-color: rgba(255, 255, 255, 0.313);
 }
 .WelcomePage a{
     text-decoration: none;
@@ -37,7 +42,7 @@ border: 3px solid black;
     letter-spacing: .15em;
             /* Adjust as needed */
     animation:
-        typing 3.5s steps(40, end),
+        typing 8.5s steps(40, end),
         blink-caret .75s step-end 4 ;
         }
         /* The typing effect */

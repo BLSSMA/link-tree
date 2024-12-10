@@ -16,8 +16,8 @@ const WelcomePage = () => {
             <div className="EtsyButton">
                 <a href="https://littlehaunteddesigns.etsy.com" className="EtsyLink" target="_blank" rel="noreferrer">ETSY</a>
             </div>
-            <div className="PortfolioButton">
-                <a href="https://blossomarmstrong.com/" className="PortfolioLink" target="_blank" rel="noreferrer">PORTFOLIO</a>
+            <div className="InstagramButton">
+                <a href="https://www.instagram.com/haunted_design/" className="PortfolioLink" target="_blank" rel="noreferrer">INSTAGRAM</a>
             </div>
             <div className="ghostImage">
                 <img src={ghost} alt="ghost" className="d-flex"/>
