@@ -10,9 +10,6 @@ const WelcomePage = () => {
             <div className="WelcomeHeader">
                 <h1 className="typed-out">✨WELCOME✨</h1>
             </div>
-            <div className="StoreButton">
-                <a href="https://www.little-haunted-designs.com/" className="StoreLink" title="https://www.little-haunted-designs.com/"target="_blank" rel="noreferrer">STORE</a>
-            </div>
             <div className="EtsyButton">
                 <a href="https://littlehaunteddesigns.etsy.com" className="EtsyLink" title="https://littlehaunteddesigns.etsy.com" target="_blank" rel="noreferrer">ETSY</a>
             </div>
