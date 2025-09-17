@@ -11,10 +11,9 @@ margin:60px auto;
 border-radius:40px;
 border: 3px solid black;
 }
-.WelcomePage .TwitterButton:hover,
-.WelcomePage .RedditButton:hover,
+.WelcomePage .EtsyButton:hover,
 .WelcomePage .InstagramButton:hover,
-.WelcomePage .SpicyButton:hover {
+ {
 background-color: rgba(255, 255, 255, 0.313);
 }
 
