@@ -3,7 +3,7 @@
     margin:0 auto;
     padding:0;
 }
-.WelcomePage .TwitterButton, .WelcomePage .RedditButton, .WelcomePage .InstagramButton, .WelcomePage .SpicyButton{
+.WelcomePage .EtsyButton, .WelcomePage .InstagramButton{
 background-color:white;
 max-width:300px;
 padding:20px 0;
