@@ -18,10 +18,7 @@ const WelcomePage = () => {
             <div className="InstagramButton">
                 <a href="https://www.instagram.com/baebee.angel" className="PortfolioLink" title="https://www.instagram.com/haunted_design/" target="_blank" rel="noreferrer">Instagram</a>
             </div>
-            <div className="SpicyButton">
 
-                <a href="https://onlyfans.com/baebeeangel" className="PortfolioLink" title="https://www.instagram.com/haunted_design/" target="_blank" rel="noreferrer">Spicy Site</a>
-            </div>
         </div>
     )
 }
